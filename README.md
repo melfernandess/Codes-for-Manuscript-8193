@@ -22,8 +22,8 @@ Finalmente, são obtidas as perdas de energia elétrica do sistema de distribui�
 
 ## Screenshots de Alguns Resultados
 <div id="header" align="center">
-  <img src="https://github.com/melfernandess/IEEE_RobotGuidedNeedlePlacement/raw/main/ProjectImages/holderConcept.png" width="400"/>
-  <img src="https://github.com/melfernandess/IEEE_RobotGuidedNeedlePlacement/raw/main/ProjectImages/breastAHolderProfile.png" width="400"/>
+  <img src="https://github.com/melfernandess/Codes-for-Manuscript-8193/blob/main/Imagens/Fig.%201.jpg?raw=true" width="400"/>
+  <img src="https://github.com/melfernandess/Codes-for-Manuscript-8193/blob/main/Imagens/Fig.%203.jpg?raw=true" width="400"/>
 </div>
 
 
