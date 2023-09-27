@@ -3,7 +3,7 @@
 [DSSStartOK, DSSObj, DSSText] = DSSStartup;
 
 if DSSStartOK
-     DSSText.Command = 'compile "C:\Users\lucas\OneDrive\Desktop\Doutorado 2023\04 Abril\Artigo\Run_IEEE34Mod2.dss"';
+     DSSText.Command = 'compile "C:\Users\mel\OneDrive\Desktop\Doutorado 2023\04 Abril\Artigo\Run_IEEE34Mod2.dss"';
 %% Configuração interface
     
     DSSCircuit=DSSObj.ActiveCircuit;
