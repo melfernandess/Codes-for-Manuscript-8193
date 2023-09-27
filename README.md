@@ -10,6 +10,8 @@ Em seguida, uma função .m responsável por interfacear o OpenDSS ao Matlab é 
 
 Após receber os valores de SOC, o algoritmo calcula a potência que a bateria absorve ou fornece ao sistema. 
 
+O presente código mostra a estrutura do cálculo destes fluxos de potência.
+
 Finalmente, são obtidas as perdas de energia elétrica do sistema de distribuição considerando a operação do BESS.
 
 ## Requerimentos
