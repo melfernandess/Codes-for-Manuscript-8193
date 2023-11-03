@@ -1,6 +1,6 @@
 ## Code for Manuscript 8193 - IEEE Latin America Transactions
 
-![Graphical abstract](https://github.com/melfernandess/Codes-for-Manuscript-8193/blob/main/Imagens/Resumo.png?raw=true).
+![Figure](https://github.com/melfernandess/Codes-for-Manuscript-8193/blob/main/Imagens/Resumo.png?raw=true).
 
 A presente implementação utilizou o sistema [IEEE 34 Barras](https://cmte.ieee.org/pes-testfeeders/resources/) do IEEE.
 
@@ -13,6 +13,10 @@ Após receber os valores de SOC, o algoritmo calcula a potência que a bateria a
 O presente código mostra a estrutura do cálculo destes fluxos de potência.
 
 Finalmente, são obtidas as perdas de energia elétrica do sistema de distribuição considerando a operação do BESS.
+
+A relevância deste trabalho, pode ser mais bem entendida através da análise do Graphical Abstract mostrado abaixo.
+
+![Figure](https://github.com/melfernandess/Codes-for-Manuscript-8193/blob/main/Imagens/Graphical_Abstract_8193.png).
 
 ## Requerimentos
 - Matlab (2015 ou posterior)
